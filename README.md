@@ -8,3 +8,4 @@ example_usage
 ```
 in matlab
 
+![screenshotUsage](screenshotExample.png)
